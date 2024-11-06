@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Luke\\source\\repos\\EggQuest\\EggQuest\\EggQuest.csproj": {}
+    "C:\\Users\\Luke\\Source\\Repos\\EggQuest2\\EggQuest\\EggQuest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Luke\\source\\repos\\EggQuest\\EggQuest\\EggQuest.csproj": {
+    "C:\\Users\\Luke\\Source\\Repos\\EggQuest2\\EggQuest\\EggQuest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Luke\\source\\repos\\EggQuest\\EggQuest\\EggQuest.csproj",
+        "projectUniqueName": "C:\\Users\\Luke\\Source\\Repos\\EggQuest2\\EggQuest\\EggQuest.csproj",
         "projectName": "EggQuest",
-        "projectPath": "C:\\Users\\Luke\\source\\repos\\EggQuest\\EggQuest\\EggQuest.csproj",
+        "projectPath": "C:\\Users\\Luke\\Source\\Repos\\EggQuest2\\EggQuest\\EggQuest.csproj",
         "packagesPath": "C:\\Users\\Luke\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Luke\\source\\repos\\EggQuest\\EggQuest\\obj\\",
+        "outputPath": "C:\\Users\\Luke\\Source\\Repos\\EggQuest2\\EggQuest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

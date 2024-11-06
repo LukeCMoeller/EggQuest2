@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h7rFvFl+bCQ=",
+  "dgSpecHash": "2dBJQ1EYyc4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Luke\\source\\repos\\EggQuest\\EggQuest\\EggQuest.csproj",
+  "projectFilePath": "C:\\Users\\Luke\\Source\\Repos\\EggQuest2\\EggQuest\\EggQuest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Luke\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\Luke\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",

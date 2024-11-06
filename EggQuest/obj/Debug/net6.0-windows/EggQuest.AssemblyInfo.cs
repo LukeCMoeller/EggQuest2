@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EggQuest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78eaaaae52a025061dfe30c028a7de803556c9ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("EggQuest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EggQuest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

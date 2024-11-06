@@ -24,7 +24,7 @@ namespace EggQuest
         /// constructor of the player
         /// </summary>
         public Player()
-        {
+        { 
             Position = new Vector2(50, 50); //where the player spawns
         }
         /// <summary>
